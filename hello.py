@@ -1,1 +1,1 @@
-print("Hello from GitHub Actions on Windows!")
+print("This run comes from PR + Push event test")
